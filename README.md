@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Finance racker using ruby on rails
 
-Things you may want to cover:
+* Verions
+-ruby : 2.7.5
+-rails : 6.0.4.4
+-node : v14.15.1
+-yarn : 1.22.17
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Add devise gem to the application. Follow: https://github.com/heartcombo/devise#starting-with-rails
