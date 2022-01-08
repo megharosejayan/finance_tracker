@@ -14,3 +14,5 @@ if you're using windows, the alternate to grep command is findstr
 (make sure to update yarn before this, use: yarn install --check-files )
 
 * rails routes | findstr users :to create the migrate file of users for devise gem
+
+ For anyone on Windows 10 using Powershell Type: $env:EDITOR="code --wait" on one line, hit enter, then type rails credentials:edit. 
